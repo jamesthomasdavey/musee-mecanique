@@ -1,0 +1,22 @@
+body {
+  background: black;
+}
+
+#navbar-brand {
+  font-family: 'Cormorant', serif;
+  font-weight: 700;
+  font-size: 40px;
+  color: #333;
+}
+
+.nav-link {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-toggler {
+  outline: none;
+}
+
+.nav-item {
+  margin: 0 6px;
+}
